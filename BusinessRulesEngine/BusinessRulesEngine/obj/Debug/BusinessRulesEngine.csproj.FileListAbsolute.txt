@@ -1,0 +1,6 @@
+D:\Amol\PracticePrograms\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.exe.config
+D:\Amol\PracticePrograms\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.exe
+D:\Amol\PracticePrograms\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.pdb
+D:\Amol\PracticePrograms\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\BusinessRulesEngine.csprojResolveAssemblyReference.cache
+D:\Amol\PracticePrograms\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\BusinessRulesEngine.exe
+D:\Amol\PracticePrograms\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\BusinessRulesEngine.pdb
